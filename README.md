@@ -1,5 +1,5 @@
 # installer
-Installing applications with choco.
+Installing *or* upgrade applications with choco.
 
 **REQUIRES RUN AS ADMIN**
 
